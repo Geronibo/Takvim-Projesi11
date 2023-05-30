@@ -1,0 +1,12 @@
+C:\Users\elber\OneDrive\Masaüstü\C# UYGULAMALARI\ProjeOdev\ProjeOdev\bin\Debug\ProjeOdev.exe.config
+C:\Users\elber\OneDrive\Masaüstü\C# UYGULAMALARI\ProjeOdev\ProjeOdev\bin\Debug\ProjeOdev.exe
+C:\Users\elber\OneDrive\Masaüstü\C# UYGULAMALARI\ProjeOdev\ProjeOdev\bin\Debug\ProjeOdev.pdb
+C:\Users\elber\OneDrive\Masaüstü\C# UYGULAMALARI\ProjeOdev\ProjeOdev\obj\Debug\ProjeOdev.csprojAssemblyReference.cache
+C:\Users\elber\OneDrive\Masaüstü\C# UYGULAMALARI\ProjeOdev\ProjeOdev\obj\Debug\ProjeOdev.Form1.resources
+C:\Users\elber\OneDrive\Masaüstü\C# UYGULAMALARI\ProjeOdev\ProjeOdev\obj\Debug\ProjeOdev.Properties.Resources.resources
+C:\Users\elber\OneDrive\Masaüstü\C# UYGULAMALARI\ProjeOdev\ProjeOdev\obj\Debug\ProjeOdev.csproj.GenerateResource.cache
+C:\Users\elber\OneDrive\Masaüstü\C# UYGULAMALARI\ProjeOdev\ProjeOdev\obj\Debug\ProjeOdev.csproj.CoreCompileInputs.cache
+C:\Users\elber\OneDrive\Masaüstü\C# UYGULAMALARI\ProjeOdev\ProjeOdev\obj\Debug\ProjeOdev.exe
+C:\Users\elber\OneDrive\Masaüstü\C# UYGULAMALARI\ProjeOdev\ProjeOdev\obj\Debug\ProjeOdev.pdb
+C:\Users\elber\OneDrive\Masaüstü\C# UYGULAMALARI\ProjeOdev\ProjeOdev\obj\Debug\ProjeOdev.FrmKayıt.resources
+C:\Users\elber\OneDrive\Masaüstü\C# UYGULAMALARI\ProjeOdev\ProjeOdev\obj\Debug\ProjeOdev.FrmAna.resources
